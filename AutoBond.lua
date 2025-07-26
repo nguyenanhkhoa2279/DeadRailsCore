@@ -89,7 +89,7 @@ local icon = Instance.new("ImageLabel")
 icon.Size = UDim2.new(0, 64, 0, 64)
 icon.Position = UDim2.new(0.5, -32, 0, 16)
 icon.BackgroundTransparency = 1
-icon.Image = "rbxassetid://"
+icon.Image = "rbxassetid://74725622037659"
 icon.Parent = uiContainer
 
 local title = Instance.new("TextLabel")
