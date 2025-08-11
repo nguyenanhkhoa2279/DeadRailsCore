@@ -58,7 +58,7 @@ corner.Parent = uiContainer
 
 local stroke = Instance.new("UIStroke")
 stroke.Thickness = 2
-stroke.Color = Color3.fromRGB(72, 138, 182)
+stroke.Color = Color3.fromRGB(255,255,255)
 stroke.Transparency = 0.3
 stroke.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
 stroke.Parent = uiContainer
